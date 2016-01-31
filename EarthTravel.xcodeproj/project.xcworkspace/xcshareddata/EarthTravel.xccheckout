@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B41EB90A-2232-4D6A-9CE6-337B95DA66FA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BD0F43998EDB7001E0C417F5213147BFF7562696</key>
+		<string>github.com:op1000/EarthTravel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EarthTravel.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BD0F43998EDB7001E0C417F5213147BFF7562696</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:op1000/EarthTravel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BD0F43998EDB7001E0C417F5213147BFF7562696</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BD0F43998EDB7001E0C417F5213147BFF7562696</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EarthTravel</string>
+		</dict>
+	</array>
+</dict>
+</plist>
